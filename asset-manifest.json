@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-hw-sprint-2/static/css/main.4f3c04a7.css",
-    "main.js": "/react-hw-sprint-2/static/js/main.85eefcad.js",
+    "main.css": "/react-hw-sprint-2/static/css/main.aee3255b.css",
+    "main.js": "/react-hw-sprint-2/static/js/main.7e56b842.js",
     "static/js/787.66cb4309.chunk.js": "/react-hw-sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-hw-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/react-hw-sprint-2/index.html",
-    "main.4f3c04a7.css.map": "/react-hw-sprint-2/static/css/main.4f3c04a7.css.map",
-    "main.85eefcad.js.map": "/react-hw-sprint-2/static/js/main.85eefcad.js.map",
+    "main.aee3255b.css.map": "/react-hw-sprint-2/static/css/main.aee3255b.css.map",
+    "main.7e56b842.js.map": "/react-hw-sprint-2/static/js/main.7e56b842.js.map",
     "787.66cb4309.chunk.js.map": "/react-hw-sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f3c04a7.css",
-    "static/js/main.85eefcad.js"
+    "static/css/main.aee3255b.css",
+    "static/js/main.7e56b842.js"
   ]
 }
