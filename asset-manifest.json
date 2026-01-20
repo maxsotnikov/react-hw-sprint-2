@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-hw-sprint-2/static/css/main.9585a09a.css",
-    "main.js": "/react-hw-sprint-2/static/js/main.d2dcb9ff.js",
+    "main.js": "/react-hw-sprint-2/static/js/main.913596e2.js",
     "static/js/787.66cb4309.chunk.js": "/react-hw-sprint-2/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/react-hw-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/react-hw-sprint-2/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -11,11 +11,11 @@
     "index.html": "/react-hw-sprint-2/index.html",
     "static/media/burger.svg": "/react-hw-sprint-2/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.9585a09a.css.map": "/react-hw-sprint-2/static/css/main.9585a09a.css.map",
-    "main.d2dcb9ff.js.map": "/react-hw-sprint-2/static/js/main.d2dcb9ff.js.map",
+    "main.913596e2.js.map": "/react-hw-sprint-2/static/js/main.913596e2.js.map",
     "787.66cb4309.chunk.js.map": "/react-hw-sprint-2/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9585a09a.css",
-    "static/js/main.d2dcb9ff.js"
+    "static/js/main.913596e2.js"
   ]
 }
